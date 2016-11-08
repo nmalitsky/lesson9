@@ -1,0 +1,25 @@
+{
+  "name": "lesson9",
+  "version": "1.0.0",
+  "description": "ND-2 Lesson 9 (MongoDB Simple)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmalitsky/lesson9.git"
+  },
+  "keywords": [
+    "mongodb"
+  ],
+  "author": "Nikolay Malitsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nmalitsky/lesson9/issues"
+  },
+  "homepage": "https://github.com/nmalitsky/lesson9#readme",
+  "dependencies": {
+    "mongodb": "^2.2.11"
+  }
+}
