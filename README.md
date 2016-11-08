@@ -1,3 +1,3 @@
-Install: npm install
-Run: node index.js  
+Install: *npm install *
 
+Run: *node index.js*
